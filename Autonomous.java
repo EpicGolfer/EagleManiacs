@@ -65,10 +65,6 @@ public class Autonomous extends LinearOpMode
         motorleft.setPower(power);
     }
 https://github.com/EpicGolfer/EagleManiacs/invitations
-https://github.com/EpicGolfer/EagleManiacs/invitations
-
-
-
 
 }
 
